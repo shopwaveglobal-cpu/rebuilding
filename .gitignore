@@ -1,0 +1,12 @@
+# Local and private operating data
+.env
+.env.*
+*.secret
+private/
+data/
+exports/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
