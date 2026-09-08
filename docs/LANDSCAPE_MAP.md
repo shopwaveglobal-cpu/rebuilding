@@ -2,6 +2,8 @@
 
 현재까지 대화에서 확인된 정보만 사용한 1차 지도입니다. 확정 계획이 아니며, 수치와 사실은 검증 후 갱신합니다.
 
+첨부 Seed Brief의 상세 Agent Briefs와 Initial Landscape는 [SEED_BRIEF_LANDSCAPE.md](SEED_BRIEF_LANDSCAPE.md)를 함께 참고합니다.
+
 ## 공통 출력 형식
 
 각 영역은 다음 순서로 갱신합니다.

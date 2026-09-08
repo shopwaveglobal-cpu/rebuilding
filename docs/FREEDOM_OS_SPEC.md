@@ -353,4 +353,5 @@ Freedom OS 구축 자체가 생산적 미루기가 되어서는 안 됩니다.
 - 상태: [STATE_MACHINE.md](STATE_MACHINE.md)
 - 도구: [TOOL_ARCHITECTURE.md](TOOL_ARCHITECTURE.md)
 - 검토: [REVIEW_SYSTEM.md](REVIEW_SYSTEM.md)
+- Landscape 상세: [SEED_BRIEF_LANDSCAPE.md](SEED_BRIEF_LANDSCAPE.md)
 - 데이터 계약: [schemas/](../schemas/)

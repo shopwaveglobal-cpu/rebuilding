@@ -23,6 +23,8 @@ AI, 시스템, 사람, 자본을 활용해 직접 해야 하는 일을 줄이고
 | 실행 데이터 | Notion — 별도 운영 DB |
 | 장기 지식·메모 | Obsidian — 별도 지식 저장소 |
 
+첨부 Seed Brief의 상세 Landscape Agent Briefs, Initial Landscape, Unknown Queue, Next Deep-Dive Order는 [`docs/SEED_BRIEF_LANDSCAPE.md`](docs/SEED_BRIEF_LANDSCAPE.md)에 보존합니다.
+
 ## 도구별 사용
 
 - ChatGPT: 전략, 검토, 중요한 판단
